@@ -10,6 +10,7 @@ make discord bot or something else.
 
 ## Works
 - [Line AI bot](https://github.com/lchenglin29/LineAIbot_OpenSource)
+- [Oksana](https://github.com/lchenglin29/Oksana_on_discord) | A cute AI bot in discord 
 
 
 
