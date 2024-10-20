@@ -1,7 +1,10 @@
-Human / Koala
+# Human / Koala
 
-- Python
+## Skill
+- **Python**
 - a little C++/JS
+
+
 
 <!---
 lchenglin29/lchenglin29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
