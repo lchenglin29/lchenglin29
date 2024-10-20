@@ -4,7 +4,7 @@
 Human/Koala  
 make Discord bots or something else.
 
-## Programming language
+## Programming languages
 - **Python**
 - some C++/JS
 
