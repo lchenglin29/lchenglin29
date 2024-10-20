@@ -9,7 +9,7 @@ make discord bot or something else.
 - a little C++/JS
 
 ## Works
-- (Line AI bot)[]
+- (Line AI bot)[https://github.com/lchenglin29/LineAIbot_OpenSource]
 
 
 
