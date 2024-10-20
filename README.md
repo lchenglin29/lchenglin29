@@ -6,7 +6,7 @@ make Discord bots or something else.
 
 ## Programming language
 - **Python**
-- a little C++/JS
+- some C++/JS
 
 ## Projects 
 - [Line AI bot](https://github.com/lchenglin29/LineAIbot_OpenSource) | A simple Line AI bot
