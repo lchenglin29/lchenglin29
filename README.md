@@ -8,7 +8,8 @@ make discord bot or something else.
 - **Python**
 - a little C++/JS
 
-## Hobby
+## Works
+- (Line AI bot)[]
 
 
 
