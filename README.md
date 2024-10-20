@@ -8,9 +8,9 @@ make discord bot or something else.
 - **Python**
 - a little C++/JS
 
-## Works
+## Projects 
 - [Line AI bot](https://github.com/lchenglin29/LineAIbot_OpenSource) | A simple Line AI bot
-- [Oksana](https://github.com/lchenglin29/Oksana_on_discord) | A cute AI bot in discord 
+- [Oksana](https://github.com/lchenglin29/Oksana_on_discord) | A cute AI bot on discord 
 
 
 
