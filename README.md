@@ -1,9 +1,11 @@
-# Human / Koala
+## About 
+-# Never gonna give you up 
+Human/Koala
+make discord bot or something else.
 
-## Skill
+## Program language
 - **Python**
 - a little C++/JS
-
 
 
 <!---
