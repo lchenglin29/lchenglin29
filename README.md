@@ -1,5 +1,5 @@
 ## About 
-> *Never gonna give you up*  
+> *Never gonna give you up :D*  
 
 Human/Koala  
 make discord bot or something else.
@@ -7,6 +7,9 @@ make discord bot or something else.
 ## Programming language
 - **Python**
 - a little C++/JS
+
+## Hobby
+
 
 
 <!---
