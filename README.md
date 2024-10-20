@@ -13,6 +13,10 @@ make Discord bots or something else.
 - [Oksana](https://github.com/lchenglin29/Oksana_on_discord) | A cute AI bot on discord 
 - [Oksana_dev](https://github.com/lchenglin29/Oksana_dev) | dev version of Oksana 
 
+## Other things
+- Discord -> `koala._.lol`
+- [Discord server](https://discord.gg/za5a4UfGhE)
+
 
 
 <!---
