@@ -2,7 +2,7 @@
 > *Never gonna give you up :D*  
 
 Human/Koala  
-make discord bot or something else.
+make Discord bots or something else.
 
 ## Programming language
 - **Python**
