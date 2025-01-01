@@ -15,7 +15,7 @@ make Discord bots or something else.
 
 ## Other things
 - Discord -> `koala._.lol`
-- [Discord server](https://discord.gg/za5a4UfGhE)
+- [Discord server](https://discord.gg/WVsUFyBpHG)
 
 
 
