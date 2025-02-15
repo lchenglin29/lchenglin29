@@ -11,7 +11,7 @@ make Discord bots or something else.
 ## Projects 
 - [Line AI bot](https://github.com/lchenglin29/LineAIbot_OpenSource) | A simple Line AI bot
 - [Oksana](https://github.com/lchenglin29/Oksana_on_discord) | A cute AI bot on discord 
-- [Oksana_dev](https://github.com/lchenglin29/Oksana_dev) | dev version of Oksana 
+- [Oksana_OpenSource] | A cleaner and easier-to-use version of Oksana, and you can customize the bot through its configuration file.
 
 ## Other things
 - Discord -> `koala._.lol`
